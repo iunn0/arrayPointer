@@ -1,0 +1,4 @@
+﻿  ArrayPointer.cpp
+E:\Prog Files\Projects\ArrayPointer\ArrayPointer\ArrayPointer.cpp(28,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Prog Files\Projects\ArrayPointer\ArrayPointer\ArrayPointer.cpp(43,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ArrayPointer.vcxproj -> E:\Prog Files\Projects\ArrayPointer\x64\Debug\ArrayPointer.exe
